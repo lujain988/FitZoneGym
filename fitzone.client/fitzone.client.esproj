@@ -7,4 +7,8 @@
     <!-- Folder where production build objects will be placed -->
     <BuildOutputFolder>$(MSBuildProjectDirectory)\dist\fitzone.client\browser\</BuildOutputFolder>
   </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="src\app\newProject8\Lujain\" />
+    <Folder Include="src\app\newProject8\mohammad\" />
+  </ItemGroup>
 </Project>
