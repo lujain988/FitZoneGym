@@ -361,3 +361,5 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/FitZone.Server/appsettings.json
+/FitZone.Server/Models/MyDbContext.cs
